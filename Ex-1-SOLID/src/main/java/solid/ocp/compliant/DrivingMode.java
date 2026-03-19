@@ -1,4 +1,4 @@
-package solid.ocp.refactor;
+package solid.ocp.compliant;
 
 public abstract class DrivingMode {
 

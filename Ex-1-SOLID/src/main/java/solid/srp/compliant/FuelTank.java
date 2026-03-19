@@ -1,4 +1,4 @@
-package solid.srp.refactor;
+package solid.srp.compliant;
 
 public class FuelTank {
 
